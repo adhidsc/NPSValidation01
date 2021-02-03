@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="F:/Dhinesh/Video1/Selenium Jars/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="F:/Dhinesh/Video1/Selenium Jars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="F:/Dhinesh/Video1/Selenium Jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/Dhinesh/Video1/Selenium Jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/Dhinesh/Video1/Selenium Jars/gson-2.8.0.jar"/>
+	<classpathentry kind="lib" path="F:/Dhinesh/Video1/Selenium Jars/guava-21.0.jar"/>
+	<classpathentry kind="lib" path="F:/Dhinesh/Video1/Selenium Jars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="F:/Dhinesh/Video1/Selenium Jars/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="F:/Dhinesh/Video1/Selenium Jars/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="F:/Dhinesh/Video1/Selenium Jars/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/Dhinesh/Video1/Selenium Jars/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/Dhinesh/Video1/Selenium Jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="F:/Dhinesh/Video1/Selenium Jars/selenium-api-3.4.0.jar"/>
+	<classpathentry kind="lib" path="F:/Dhinesh/Video1/Selenium Jars/selenium-remote-driver-3.4.0.jar"/>
+	<classpathentry kind="lib" path="F:/Dhinesh/Video1/Selenium Jars/selenium-support-3.4.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
